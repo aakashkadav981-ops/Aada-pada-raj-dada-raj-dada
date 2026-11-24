@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Flap",
+  "description": "A colorful pixel-art Flappy Bird arcade game with customizable flyers, parallax pixel worlds, chiptune sound effects, and live score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
